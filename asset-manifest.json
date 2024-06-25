@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/SushanthKanchan/Login_Page.git/static/css/main.4e00d40c.css",
+    "main.js": "/SushanthKanchan/Login_Page.git/static/js/main.29eb6fb0.js",
+    "static/media/Lara-1.png": "/SushanthKanchan/Login_Page.git/static/media/Lara-1.17509d265ea0eca61d87.png",
+    "static/media/thomos-1.png": "/SushanthKanchan/Login_Page.git/static/media/thomos-1.9671826cf5ec71991651.png",
+    "static/media/Image 40@2x.png": "/SushanthKanchan/Login_Page.git/static/media/Image 40@2x.813d7e4bb5f354eecb8b.png",
+    "static/media/fiona-art-4.png": "/SushanthKanchan/Login_Page.git/static/media/fiona-art-4.4b711bc67311868dbfa8.png",
+    "static/media/ekaterina-1.png": "/SushanthKanchan/Login_Page.git/static/media/ekaterina-1.f4728be17d94ddd0abf6.png",
+    "static/media/servín-2x.png": "/SushanthKanchan/Login_Page.git/static/media/servín-2x.5383bf5246840f433112.png",
+    "static/media/pixabay-3x.png": "/SushanthKanchan/Login_Page.git/static/media/pixabay-3x.b907e2ffe5e83a895079.png",
+    "static/media/Image 39@2x.png": "/SushanthKanchan/Login_Page.git/static/media/Image 39@2x.c51f718c93e9ed561a7b.png",
+    "static/media/shkraba3.png": "/SushanthKanchan/Login_Page.git/static/media/shkraba3.7a53c9ebbf76de382d1f.png",
+    "static/media/thomos.png": "/SushanthKanchan/Login_Page.git/static/media/thomos.810c14402452d108e5be.png",
+    "static/media/lara.png": "/SushanthKanchan/Login_Page.git/static/media/lara.7fe9fda4c8a3d8901af0.png",
+    "static/media/shkraba-4.png": "/SushanthKanchan/Login_Page.git/static/media/shkraba-4.1eb66492c2ddd7368c60.png",
+    "static/media/shuraeva.png": "/SushanthKanchan/Login_Page.git/static/media/shuraeva.e78634e8d38b33a13db5.png",
+    "static/media/piacquadio2.png": "/SushanthKanchan/Login_Page.git/static/media/piacquadio2.9daa1c04bf41170cac0f.png",
+    "static/media/subscription.svg": "/SushanthKanchan/Login_Page.git/static/media/subscription.2efbac393b5c2e655e380eebc51de2f0.svg",
+    "static/media/filter.svg": "/SushanthKanchan/Login_Page.git/static/media/filter.78603509bd794fd80a4b1d0f7987fd8a.svg",
+    "static/media/setting.svg": "/SushanthKanchan/Login_Page.git/static/media/setting.b10769f77e90fc07a9f1fd4d7951eb00.svg",
+    "static/media/notification.svg": "/SushanthKanchan/Login_Page.git/static/media/notification.d7f4ff183c5069d19beec305313e9877.svg",
+    "static/media/profile.svg": "/SushanthKanchan/Login_Page.git/static/media/profile.846c4f9dfd961dc3611daa1660d8bac8.svg",
+    "static/media/home.svg": "/SushanthKanchan/Login_Page.git/static/media/home.a101b737d595dd27bb150cbf3375c62b.svg",
+    "static/media/logout.svg": "/SushanthKanchan/Login_Page.git/static/media/logout.e6c21448785b3ec22b49a2860aeba612.svg",
+    "static/media/search.svg": "/SushanthKanchan/Login_Page.git/static/media/search.884962d83b300b654f1f21292c07dfa7.svg",
+    "index.html": "/SushanthKanchan/Login_Page.git/index.html",
+    "static/media/chatbox.svg": "/SushanthKanchan/Login_Page.git/static/media/chatbox.716b4bf7f183429de14a5535f0a60fff.svg",
+    "static/media/wallet.svg": "/SushanthKanchan/Login_Page.git/static/media/wallet.3895461ba72d67b46ec60cf52d9079d9.svg",
+    "static/media/shop.svg": "/SushanthKanchan/Login_Page.git/static/media/shop.acc6c4d499ae100d60c04e08eaec0b97.svg",
+    "static/media/star.svg": "/SushanthKanchan/Login_Page.git/static/media/star.fe72ff4a86b517e04593cd43b50226de.svg",
+    "main.4e00d40c.css.map": "/SushanthKanchan/Login_Page.git/static/css/main.4e00d40c.css.map",
+    "main.29eb6fb0.js.map": "/SushanthKanchan/Login_Page.git/static/js/main.29eb6fb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e00d40c.css",
+    "static/js/main.29eb6fb0.js"
+  ]
+}
